@@ -1,4 +1,4 @@
-celcius = input("Enter temperature in celcius: ")
-celcius = float(celcius)
-fahrenheit = celcius * 9/5 + 32
-print(f"{celcius}° in Celcius is equivalent to {fahrenheit}° Fahrenheit")
+celsius = input("Enter temperature in celsius: ")
+celsius = float(celsius)
+fahrenheit = celsius * 9/5 + 32
+print(f"{celsius}° in Celsius is equivalent to {fahrenheit}° Fahrenheit.")
